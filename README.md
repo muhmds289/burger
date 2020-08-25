@@ -1,4 +1,6 @@
 # burger
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). 
-Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
-
+in this assigment 
+render dynamic HTML using the Handlebars.js template engine
+implementing MVC modularization in a full-stack web application
+implement a custom ORM in the Model layer of an MVC framework
+tech :handlebars.js,mvc,mysql,HTML
